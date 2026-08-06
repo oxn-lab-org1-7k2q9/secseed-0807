@@ -1,0 +1,4 @@
+# secret-scanning DETECTOR CONTROL — bb-team own object.
+# GitHub's own documented test pattern for verifying secret scanning is live.
+AKIAIOSFODNN7EXAMPLE
+aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
