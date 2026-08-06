@@ -1,0 +1,2 @@
+well-formed random GitHub token (valid checksum, authenticates nothing) for detector control
+TOKEN=ghp_dz6ZF2L1re04ZMp1rF2wwHi5VAWa4k3Za7MI
