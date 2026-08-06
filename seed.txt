@@ -1,0 +1,5 @@
+# secret-scanning seeding rig — bb-team, own object, oxn-lab-org1-7k2q9
+# The value below is a RANDOMLY GENERATED string matching GitHub's own PAT shape.
+# It is not a credential, authenticates nothing, and exists only to raise a
+# secret-scanning alert so enterprise security-center routes become testable.
+TOKEN=ghp_zGa7YN82o8hxH96IH2oiZ5V7hhpvJYanlRVh
